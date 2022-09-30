@@ -1,2 +1,2 @@
-# Beautiful-Scroll-Animation
-HTML, CSS &amp; JavaScript
+# Beautiful CSS Scroll Animation 
+Using HTML5, CSS3 &amp; JavaScript
